@@ -1,7 +1,3 @@
-## 🧪 Starter code (key files)
-
-**package.json (root)**
-```json
 {
   "name": "helpdesk-ticket-dashboard",
   "private": true,
